@@ -1,8 +1,12 @@
 from random import choice, randint
 
 #Physical traits
-EYE_COLOUR = ['Blue', 'Green', 'Brown', 'Hazel', 'Grey']
-HAIR_COLOUR = ['Blonde', 'Brunette', 'Ginger', 'Auban', 'Black', 'Grey']
+EYE_COLOUR = ['Blue', 'Green', 'Brown', 'Hazel', 'Grey', 'Black']
+HAIR_COLOUR = ['Blonde', 'Brunette', 'Ginger', 'Auban', 'Black', 'Grey', 'White', 'Salt and Pepper']
+HAIR_TEXTURE = ['Straight','Wavy', 'Curly', 'Kinky']
+HAIR_TYPE = ['Dry', 'Normal', 'Greasy', 'Combination']
+SKIN_TONE = ['Very Fair', 'Fair', 'Light Neutral', 'Light Beige', 'Apricot', 'Medium Beige', 'Golden Beige', 'Golden Bronze', 'Bronze', 'Deep Bronze', 'Chestnut', 'Espresso']
+BODY_TYPE = ['Endomorphic', 'Ectomorphic', 'Mesomorphic']
 MIN_AGE = 14
 MAX_AGE = 85
 
